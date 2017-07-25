@@ -1,0 +1,7 @@
+th {
+	cursor: pointer;
+}
+
+#next, #prev{
+	cursor: pointer;
+}
